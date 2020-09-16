@@ -1,0 +1,78 @@
+ $java edu.pitt.cs.as4.StockManagementSystem                                                                Do you want to pre-stock the system with default values? (y/n): y
+
+=================================
+Stock Management System Main Menu
+1. Print stocked items
+2. Create category
+3. Create Product
+4. Delete Product
+5. Delete Category
+6. Manage Quantity of Item
+7. Get amount of items stocked in multiple categories
+8. Get Total Value of all products in a category
+0. Quit
+Selection: 1
+=========== All Items ===========
+food (89 items):
+        1. chips (13 @ $1.49 each)
+        2. apple (38 @ $0.79 each)
+        3. soup (18 @ $1.99 each)
+        4. bread (20 @ $1.87 each)
+beverage (110 items):
+        1. beer (36 @ $5.99 each)
+        2. wine (14 @ $9.99 each)
+        3. vodka (33 @ $16.5 each)
+        4. orange juice (19 @ $2.49 each)
+        5. coffee (8 @ $3.0 each)
+electronics (40 items):
+        1. mini-dp to hdmi (2 @ $13.99 each)
+        2. cd player (8 @ $19.99 each)
+        3. cell phone (5 @ $99.0 each)
+        4. tv remote (6 @ $13.0 each)
+        5. lamp (19 @ $10.0 each)
+
+=================================
+Stock Management System Main Menu
+1. Print stocked items
+2. Create category
+3. Create Product
+4. Delete Product
+5. Delete Category
+6. Manage Quantity of Item
+7. Get amount of items stocked in multiple categories
+8. Get Total Value of all products in a category
+0. Quit
+Selection: 7
+Enter names of categories, pressing ENTER after each category; Type 'done' to finish:
+food
+beverage
+done
+Total number of items stocked in those categories is: 199
+
+=================================
+Stock Management System Main Menu
+1. Print stocked items
+2. Create category
+3. Create Product
+4. Delete Product
+5. Delete Category
+6. Manage Quantity of Item
+7. Get amount of items stocked in multiple categories
+8. Get Total Value of all products in a category
+0. Quit
+Selection: 8
+Name of Category: food
+Value of all items in food: $122.61000000000001
+
+=================================
+Stock Management System Main Menu
+1. Print stocked items
+2. Create category
+3. Create Product
+4. Delete Product
+5. Delete Category
+6. Manage Quantity of Item
+7. Get amount of items stocked in multiple categories
+8. Get Total Value of all products in a category
+0. Quit
+Selection: 0
