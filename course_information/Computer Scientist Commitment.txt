@@ -1,0 +1,6 @@
+Computer Scientists Commitment
+I read the class handout about examples of permissible and prohibited collaboration and
+on my honor as a student in CS0445 in the Fall 2019 term, I will neighter give now receive
+aid on my assignments and exams.
+
+Alexi Green 9/3/2019
